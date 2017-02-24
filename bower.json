@@ -1,0 +1,17 @@
+{
+  "name": "search-table",
+  "main": "search-table.js",
+  "authors": [
+    "JASON TEH <jason.teh@marklogic.com>"
+  ],
+  "description": "search table based on datatables",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
